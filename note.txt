@@ -1,0 +1,12 @@
+1. [x] Singleton => produce 1 instance
+2. [x] Builder => for complex objects, we can construct it step by step, produce immutable objects
+3. [x] Factory => most used design pattern, create object without exposing the creation logic to the client
+4. [ ] Abstract
+5. [ ] Prototype
+6. [x] Object Pool => Used when cost of object creation is very high
+7. [x] Adapter => Allows incompatible objects to collaborate.
+8. [x] Repository => Repository layer in MVC (Model View Controller)
+9. [x] Facade => Service layer in MVC (Model View Controller)
+10. [ ] Template
+11. [ ] Bridge
+12. [ ] Composite
